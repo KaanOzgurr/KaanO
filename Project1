@@ -1,3 +1,7 @@
 points = x1,x2,y1,y2
 
+print(points)
+
 distances = (x2-x1) , (y2-y1)
+
+print(distances)
