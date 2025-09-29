@@ -39,3 +39,6 @@ Mobile app development
 UI/UX design principles
 
 Feel free to connect or check out my projects! 🚀✨
+
+My Linkedin -- 
+
