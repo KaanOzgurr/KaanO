@@ -1,6 +1,6 @@
 👋 About Me
 
-Hello! I'm [Your Name], a passionate Software Developer and Application Developer with a love for crafting clean, efficient, and user-friendly solutions. 🚀
+Hello! I'm Kaan Ozgur , a passionate Software Developer and Application Developer with a love for crafting clean, efficient, and user-friendly solutions. 🚀
 
 💻 Technologies I work with:
 
@@ -11,11 +11,6 @@ C# (Windows Forms)
 Java (Console Applications)
 
 Java Scanner API
-
-
-
-
-
 
 
 
