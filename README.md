@@ -40,5 +40,5 @@ UI/UX design principles
 
 Feel free to connect or check out my projects! 🚀✨
 
-My Linkedin -- 
+My Linkedin Account -- https://www.linkedin.com/in/kaan-ozgur-6266b3297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
