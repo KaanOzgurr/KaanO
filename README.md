@@ -57,8 +57,12 @@
 ## 📫 Contact
 
 
+## 📫 Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan%20Ozgur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ozgur-6266b3297)
 [![GitHub](https://img.shields.io/badge/GitHub-KaanOzgurr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaanOzgurr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-kaanozgur-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kaanozgur)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Kaan28-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Kaan28)
 
 ---
 
