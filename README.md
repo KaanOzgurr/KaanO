@@ -56,7 +56,9 @@
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-KaanOzgurr-181717?style=flat-square&logo=github)](https://github.com/KaanOzgurr)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan%20Ozgur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ozgur-6266b3297)
+[![GitHub](https://img.shields.io/badge/GitHub-KaanOzgurr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaanOzgurr)
 
 ---
 
